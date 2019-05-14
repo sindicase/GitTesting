@@ -1,2 +1,3 @@
 # GitTesting
-FirstTest
+
+puts "Hello World"
